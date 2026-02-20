@@ -6,5 +6,6 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-  ],
+  ],// Se for usar GitHub Pages, coloque o nome do repositório aqui:
+  // base: '/Gerenciador-Tarefas/',
 })
