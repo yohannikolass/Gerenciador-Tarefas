@@ -8,4 +8,4 @@ Projeto feito com React + Tailwind CSS v4.
 
 OU
 
-Link do projeto: [[projeto]](https://gerenciador-tarefas-liart.vercel.app/)
+Link do projeto: [https://gerenciador-tarefas-liart.vercel.app/]
